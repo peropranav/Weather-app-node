@@ -9,5 +9,6 @@
 #### When you enter a location, using Google API getting the geolocation and using the longitude and latitude returned by the
 #### Google API and passing to the forecast.io API and this API will finally return the weather and result will be displayed 
 #### on the terminal...
-
+<br />
+<br />
 ![Alt text](https://github.com/peropranav/Weather-app-node/blob/master/Screen%20Shot%202017-09-24%20at%208.25.45%20PM.png)
