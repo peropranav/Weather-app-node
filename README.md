@@ -10,4 +10,4 @@
 #### Google API and passing to the forecast.io API and this API will finally return the weather and result will be displayed 
 #### on the terminal...
 
-![image]("Weather-app-node/Screen Shot 2017-09-24 at 8.25.45 PM.png")
+![image]("https://github.com/peropranav/Weather-app-node/blob/master/Screen%20Shot%202017-09-24%20at%208.25.45%20PM.png")
